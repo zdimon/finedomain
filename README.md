@@ -14,4 +14,7 @@
 
     git clone git@github.com:zdimon/finedomain.git
     ./install
+
+## Запуск грабера
+
     ./run
